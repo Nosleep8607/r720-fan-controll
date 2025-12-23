@@ -8,7 +8,8 @@ Full credit goes to Lareira Digital.
 C rewrite and Debian packaging by redeforit@manyhost.org.
 
 ---
-
+## Requirements 
+**ipmitool**
 ## Installation
 
 Download the Debian package and install it:
