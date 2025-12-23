@@ -1,0 +1,11 @@
+Package: fan-r720
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: redeforit <redeforit@manyhost.org>
+Description: Dell R720 Fan Control
+ Control program to manage Dell R720 fans via IPMI and Other IPMI based systems.
+ Original script by Lareira Digital <info@lareira.digital>, MIT License.
+ Source: https://github.com/lareira-digital/fancontrol_r720
+ C rewrite and Debian packaging by redeforit@manyhost.org.
